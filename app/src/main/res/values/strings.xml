@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidImplicitIntent</string>
+    <string name="btn_set_timer">SET TIMER</string>
+    <string name="hint_add_event_name_title">Add Event Name Title</string>
+    <string name="btn_add_calendar_event">add calendar event</string>
+    <string name="btn_record_video">record video</string>
+    <string name="btn_select_contact">select contact</string>
+    <string name="btn_search">search</string>
+</resources>
